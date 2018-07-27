@@ -1,3 +1,7 @@
+*Fork with [#3504](https://github.com/GoogleCloudPlatform/google-cloud-java/pull/3504) merged; released `google-cloud-nio` module as [`org.lasersonlab:google-cloud-nio:0.55.2-alpha`](https://oss.sonatype.org/content/repositories/releases/org/lasersonlab/google-cloud-nio/0.55.2-alpha/)*
+
+----------
+
 Google Cloud Client Library for Java
 ====================================
 
